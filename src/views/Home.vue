@@ -2,7 +2,7 @@
   <div class="home">
     <div class="users">
       <h1>Users</h1>
-      <router-link to="/user">Go to user</router-link>
+      <router-link to="/user">Go tot user</router-link>
       <div class="blue"
       v-for="people in this.info.results"
       :key="people.id"> 
