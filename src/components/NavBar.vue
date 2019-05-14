@@ -10,7 +10,7 @@
            
         </div>
         <div class="user">
-            <router-link to="/user">Welkom Joey!</router-link>
+            <router-link to="/user">Welkom persoon!</router-link>
         </div>
     </div>
 </template>

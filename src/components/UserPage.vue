@@ -4,8 +4,8 @@
             <h1>USEEEERR</h1>
             <img alt="Vue logo" src="../assets/logo.png">
             <div class="user">
-                <h1>Joey Lim</h1>
-                <h1>22 jaar</h1>
+                <h1>Marleen van Lubeek</h1>
+                <h1>24 jaar</h1>
             </div>
         </header>
         <div class="add-message">
